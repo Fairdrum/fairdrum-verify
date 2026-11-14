@@ -1,0 +1,10 @@
+{
+  "name": "fairdrum-verify",
+  "version": "1.0.0",
+  "description": "Recompute a FAIRDRUM round from the values published on Solana",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://fairdrum.to",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" }
+}

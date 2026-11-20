@@ -1,7 +1,7 @@
 {
   "name": "fairdrum-verify",
   "version": "1.0.0",
-  "description": "Recompute a FAIRDRUM round from the values published on Solana",
+  "description": "Check a FAIRDRUM round — its number and its prizes — from the values published on Solana",
   "type": "module",
   "license": "MIT",
   "homepage": "https://fairdrum.to",

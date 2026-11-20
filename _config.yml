@@ -1,5 +1,5 @@
 title: FAIRDRUM round check
-description: Recompute a FAIRDRUM round from the values published on Solana. A small dependency-free checker with tests, and a plain explanation of the scheme and its limits.
+description: Check a FAIRDRUM round number from the values published on Solana. A small dependency-free checker with tests, and a plain explanation of the scheme and its limits.
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
